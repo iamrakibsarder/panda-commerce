@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.navbar{
+    padding: 20px 0;
+}
+.nav-link{
+    color: #707070!important;
+    font-weight: 500;
+}
+
+/* Banner */
+
+
+.banner{
+    padding: 50px 0;
+}
+.carousel{
+    background-color: #fceae8;
+    border-radius: 10px;
+    padding: 50px;
+}
+.banner p{}
+.cta-btn{
+    background-color: #f72279;
+    padding: 10px 25px;
+    border: none;
+    color: white;
+    border-radius: 10px;
+}
+.pinky-text{
+    color: #f72279;
+}
+.carousel-control-prev-icon {
+    margin-left: -130px!important;
+}
+.carousel-control-next-icon {
+    margin-right: -130px!important;
+}
+
+
+/* Category */
+
+.category{
+    padding: 50px 0;
+}
+.category .box1, .box2, .box3{
+    color: white;
+    border-radius: 10px;
+}
+.category .box1{
+    background-color: orange;
+}
+.category .box2{
+    background-color: orchid;
+}
+.category .box3{
+    background-color: blue;
+}
+.category .box h1{
+
+}
+.category img{
+    width: 100px;
+}
+
+/* Shoes */
+
+
+.shoes{
+    padding: 50px 0;
+}
+.card-group{
+    border: none;
+}
+.card{
+    border: none;
+    margin: 20px;
+    box-shadow: 5px 0px 10px #00000014;
+    border-radius: 5px;
+}
+
+
+/* Backpack */
+
+.backpack{
+    padding: 50px 0;
+}
+.card-footer{
+    background-color: white;
+    border: none;
+}
+
+.email{
+    padding: 70px 0;
+    background-color:  ;
+}
+
+.email input{
+    margin-bottom: 15px;
+}
+.email h6{
+    color: #707070;
+}
+.email-box{
+    background-color: #fceae8;
+    padding: 70px 0;
+    border-radius: 10px;
+}
